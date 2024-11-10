@@ -141,3 +141,14 @@ The generated token will be printed. Use this token in the Authorization header 
 
 **Comment on Tasks: Use the /api/tasks/{task_id}/comments/ endpoint to add comments to tasks.**
 
+## Creating a Superuser for Django Admin
+
+To access the Django admin panel and manage the application, you need to create a superuser. Follow these steps:
+
+1. **Navigate to the project directory** in the terminal.
+
+2. **Create a superuser** by running the following command:
+
+   ```bash
+   python manage.py createsuperuser
+```
