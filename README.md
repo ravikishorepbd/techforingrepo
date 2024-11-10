@@ -19,6 +19,11 @@ A project management application built with Django and Django REST Framework. Th
 - Django REST Framework
 - Django REST Framework Token Authentication
 
+``` bash
+pip install -r requirements.txt
+
+```
+
 ## Installation
 
 1. **Clone the repository**
